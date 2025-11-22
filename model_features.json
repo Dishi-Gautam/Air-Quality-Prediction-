@@ -14,48 +14,48 @@
   ],
   "feature_importance": [
     {
-      "Feature": "CO",
-      "Importance": 0.17383844262605344
-    },
-    {
-      "Feature": "O3",
-      "Importance": 0.171454112295045
-    },
-    {
-      "Feature": "Pb",
-      "Importance": 0.15630564584810794
-    },
-    {
-      "Feature": "NH3",
-      "Importance": 0.13506383056276453
-    },
-    {
-      "Feature": "NO2",
-      "Importance": 0.11492581176038144
-    },
-    {
-      "Feature": "SO2",
-      "Importance": 0.11463092648600526
+      "Feature": "PM10",
+      "Importance": 0.4954001633842958
     },
     {
       "Feature": "PM2.5",
-      "Importance": 0.06692078571968564
+      "Importance": 0.31609658746490976
     },
     {
-      "Feature": "PM10",
-      "Importance": 0.05959488055699772
+      "Feature": "O3",
+      "Importance": 0.051814510466224484
+    },
+    {
+      "Feature": "Pb",
+      "Importance": 0.03273165960200475
+    },
+    {
+      "Feature": "SO2",
+      "Importance": 0.026923569890150788
     },
     {
       "Feature": "Temperature",
-      "Importance": 0.006166421800950667
+      "Importance": 0.024355975207907273
     },
     {
-      "Feature": "Rainfall",
-      "Importance": 0.0006800160054259352
+      "Feature": "CO",
+      "Importance": 0.016947940778680694
+    },
+    {
+      "Feature": "NO2",
+      "Importance": 0.016517968059878405
+    },
+    {
+      "Feature": "NH3",
+      "Importance": 0.007807036795914496
     },
     {
       "Feature": "Humidity",
-      "Importance": 0.0004191263385825009
+      "Importance": 0.006700610098370595
+    },
+    {
+      "Feature": "Rainfall",
+      "Importance": 0.004703978251662983
     }
   ]
 }
